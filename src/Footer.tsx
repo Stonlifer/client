@@ -28,19 +28,19 @@ function Footer() {
 
             <ul className="mt-4 flex w-auto flex-col gap-y-3">
               <li className="text-grayed">
-                <Link to="/products">MEN</Link>
+                <Link to="/">MEN</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/1">WOMEN</Link>
+                <Link to="/">WOMEN</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/2">NIKE</Link>
+                <Link to="/">NIKE</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/3">UNDER ARMOUR</Link>
+                <Link to="/">UNDER ARMOUR</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/3">ADDIDAS</Link>
+                <Link to="/">ADDIDAS</Link>
               </li>
             </ul>
           </div>
@@ -51,19 +51,19 @@ function Footer() {
 
             <ul className="mt-4 flex w-auto flex-col gap-y-3">
               <li className="text-grayed">
-                <Link to="/products">SHOP</Link>
+                <Link to="/">SHOP</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/1">TERMS</Link>
+                <Link to="/">TERMS</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/2">CART</Link>
+                <Link to="/">CART</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/3">ABOUT US</Link>
+                <Link to="/">ABOUT US</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/3">CONTACT US</Link>
+                <Link to="/">CONTACT US</Link>
               </li>
             </ul>
           </div>
@@ -74,13 +74,13 @@ function Footer() {
 
             <ul className="mt-4 flex w-auto flex-col gap-y-3">
               <li className="text-grayed">
-                <Link to="/products">FACEBOOK</Link>
+                <Link to="/">FACEBOOK</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/1">INSTAGRAM</Link>
+                <Link to="/">INSTAGRAM</Link>
               </li>
               <li className="text-grayed">
-                <Link to="/products/2">TWITTER</Link>
+                <Link to="/">TWITTER</Link>
               </li>
             </ul>
           </div>
